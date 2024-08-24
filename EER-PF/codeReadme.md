@@ -11,3 +11,7 @@
 •	SystematicResampling – Systematic resampling (comparison algorithm)
 •	traditionalStratifiedResampling – Stratified resampling (comparison algorithm)
 •	std-PF – Standard Particle Filter
+
+# Methods
+![Alt text](./method.jpg)
+ The IMU consists of the accelerometer and the gyroscope, both of them will obtain the measurement at each moment. These values are used to the initial input for PF. The PF includes the following steps: 1) particle generation; 2) weight calculation; 3) resampling; 4) update estimation. In the process of resampling, the error ellipses are set to complete the screening and optimization . Particle filtering is a sequential process of state estimation.
