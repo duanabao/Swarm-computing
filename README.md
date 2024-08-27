@@ -18,7 +18,10 @@ Implementation of a distance-constrained group collaborative tracking method, in
   pages={102913},
   url={https://api.semanticscholar.org/CorpusID:230530453}
 }
+
+
 2. wireless-data
+
 Our studies on wireless-data aim to advance wireless signal applications, with one focusing on robot communication in challenging terrains and the other on enhancing driver assistance systems through real-time action recognition.
 
 The first study measures near-ground Ultra-Wideband (UWB) signals, proposing a two-segment radio channel model to enhance communication among mobile robots in GPS-denied environments. By analyzing different antenna heights and surface types, the research provides insights into optimizing signal path loss and connectivity.
