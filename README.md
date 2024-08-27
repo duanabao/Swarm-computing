@@ -6,5 +6,5 @@ Implementation of a distance-constrained group collaborative tracking method, in
 
 ## Source code  and Datasets
 
-1. CREER-RF
+1. CEER-RF
 
